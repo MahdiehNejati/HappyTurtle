@@ -4,7 +4,7 @@
 #Turtlesim used geometry_msgs/Twist message instead of Velocity
 #Subscirbed topic is turtleX/cmd_vel(geometry_msgs/Twist). Linear and 
 #angular command velocity for Mr.Turtle. He will exectue this command for 
-#1 second and time out. The input topic for the minic node. The topic must be remapped to the cmd
+#1 second and time out. The input topic for the mimic node. The topic must be remapped to the cmd
 #_vel topic of the mimiicking turtle
 #Publioshed topic is turtleX/pose (turtlesim/Pose): the x, y theta, linear a
 #and angular velocity of Mr.Turle. 
